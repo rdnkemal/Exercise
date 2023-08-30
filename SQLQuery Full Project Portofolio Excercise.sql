@@ -9,7 +9,7 @@ pelanggan, produk, kategori, merek, toko, dan perwakilan penjualan.
 Hasilnya mencakup detail seperti nomor pesanan, nama pelanggan, lokasi, tanggal pesanan, total unit terjual, 
 pendapatan, nama produk, kategori, merek, nama toko, serta nama perwakilan penjualan.
 
-Hasil dari query dibuat file excel untuk dilakukan analisis lebih lanjut, serta dibuat visualisasi di Tableau.
+Hasil dari kuery dibuat file excel untuk dilakukan analisis lebih lanjut, serta dibuat visualisasi di Tableau.
 
 Berikut link terkait :
 Excel : 
